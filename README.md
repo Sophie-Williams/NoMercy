@@ -149,9 +149,6 @@ NoMercy is licensed under the [GPLv3](https://github.com/mq1n/NoMercy/blob/maste
 * Push to the branch: "git push origin my-new-feature".
 * Submit a pull request.
 
-## Credits
-- [mq1n](https://github.com/mq1n)
-
 ## Donations
 If you did like to buy me a coffee, I won't complain. x)
 
