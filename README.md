@@ -3,7 +3,7 @@
 The "NoMercy" project is "the gold standard" open source Windows kernel/user mode anti cheat written with C/C++.  
 
 ## Notes;
-* The project will not be updated for a while, due than my computer is corrupted.
+* The project will not be updated for a while, due to my computer corruption.
 * **The project is still under development**
 * Currently just developed and tested on Windows 10 x64 RS4(1804) as WoW64 process
 * Build 3rd party dependencies or download [released pre-compiled bundle](https://github.com/mq1n/NoMercy/releases/download/v1.1/CompiledLibs.zip) and extract .zip content to "NoMercy\Extern\CompiledLibs"
